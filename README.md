@@ -1,3 +1,8 @@
+![Табличный payout](report.png)
+
+![JSON payout](report_json.png)
+
+
 # Payout report script
 
 Скрипт для формирования отчетов по зарплате сотрудников на Python.
