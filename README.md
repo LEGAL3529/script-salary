@@ -1,6 +1,6 @@
-![Табличный payout](report.png)
+![Табличный payout](Снимок экрана 2025-06-03 105827.png)
 
-![JSON payout](report_json.png)
+![JSON payout](Снимок экрана 2025-06-03 142704.png)
 
 
 # Payout report script
